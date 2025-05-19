@@ -1,0 +1,501 @@
+employee_id,employee_name,role,store_id,hire_date
+1,Nicole Owen,Sales Associate,419,2019-09-30
+2,Heather Estrada,Manager,61,2020-05-13
+3,Victoria Dixon,Sales Associate,339,2021-01-23
+4,Jesse Martinez,Manager,118,2015-05-14
+5,David Dunlap Jr.,Manager,213,2020-08-20
+6,Sandra Jimenez,Manager,416,2018-11-23
+7,Christopher Jacobs,Manager,170,2019-06-01
+8,Eric Hanson,Sales Associate,369,2022-09-12
+9,Mary Meyer,Manager,59,2023-09-14
+10,John Carter MD,Manager,247,2016-12-16
+11,Kimberly Pacheco,Manager,346,2020-02-16
+12,Alicia Gallagher,Sales Associate,246,2016-05-08
+13,Sheryl Wilson MD,Sales Associate,246,2022-10-31
+14,Jessica Johnson,Cashier,108,2020-10-23
+15,Matthew Chan,Manager,303,2020-02-28
+16,Carly Jordan,Cashier,83,2018-07-16
+17,James Gallagher,Cashier,332,2022-09-24
+18,Katherine Spencer,Sales Associate,427,2015-02-04
+19,Julie Hart,Cashier,211,2015-02-18
+20,Anthony Baker,Cashier,12,2022-07-24
+21,Jamie Rhodes,Manager,125,2017-05-13
+22,Diane Brown,Cashier,23,2019-04-04
+23,Bethany Richardson,Cashier,66,2021-07-07
+24,Lauren Hubbard,Sales Associate,294,2016-02-17
+25,Jamie Patterson,Cashier,304,2018-08-25
+26,Jennifer Brown MD,Sales Associate,83,2019-01-21
+27,Erik Miller,Manager,69,2021-11-14
+28,Sheila Wilson,Sales Associate,323,2017-11-29
+29,Joshua Johnson,Cashier,263,2017-02-05
+30,Jenny Robertson,Cashier,21,2021-02-24
+31,Alex Harrison,Manager,457,2017-12-12
+32,Eugene Hudson,Sales Associate,294,2017-08-29
+33,Brent Freeman,Cashier,76,2018-01-08
+34,Christine Crawford,Manager,29,2020-04-14
+35,Mary Jackson,Cashier,86,2021-11-16
+36,Wayne Harris,Sales Associate,133,2018-11-06
+37,Valerie Jones,Sales Associate,473,2019-02-07
+38,Cindy Baker,Cashier,93,2017-01-23
+39,Kenneth Ballard,Manager,265,2020-08-04
+40,Tina Robbins,Manager,491,2019-10-03
+41,Leslie Nelson,Manager,208,2017-05-12
+42,Kiara Simmons,Manager,307,2019-09-13
+43,Billy Colon,Cashier,497,2022-11-10
+44,Elizabeth Alvarado,Manager,289,2023-06-08
+45,Jason King,Manager,327,2019-03-05
+46,Megan Kelley,Manager,10,2019-02-04
+47,Lori Black,Sales Associate,450,2019-06-29
+48,Jonathan Guerrero,Cashier,369,2018-02-19
+49,Teresa Adams,Manager,373,2020-01-21
+50,Rhonda Farrell,Manager,339,2017-01-06
+51,Taylor Barber,Sales Associate,421,2021-05-29
+52,Curtis Ford,Manager,146,2016-06-21
+53,Paul Cannon,Manager,485,2021-06-16
+54,Jennifer Dalton,Cashier,44,2022-09-10
+55,Madison Singleton,Sales Associate,111,2017-07-25
+56,Dustin Martin,Sales Associate,230,2016-02-14
+57,Cynthia Allen,Sales Associate,311,2023-01-31
+58,Alexis Robles,Manager,242,2018-01-10
+59,John Esparza,Sales Associate,445,2017-08-23
+60,Taylor Harris,Manager,247,2021-03-24
+61,Allen Clarke,Cashier,88,2019-11-06
+62,Juan Newman,Cashier,113,2019-04-10
+63,Nathan Casey,Manager,426,2017-03-14
+64,Steven Edwards,Sales Associate,211,2016-08-20
+65,Arthur Friedman,Cashier,308,2023-12-21
+66,Megan Blackwell,Manager,74,2023-04-14
+67,Ryan Cameron,Sales Associate,407,2016-09-04
+68,Kenneth Mason,Cashier,299,2020-04-21
+69,Matthew Carpenter,Manager,421,2015-02-09
+70,Kelly Crawford,Manager,393,2016-12-24
+71,Kyle Mejia,Manager,94,2019-09-23
+72,Ronnie Mclaughlin,Manager,320,2020-08-08
+73,Natasha Walls,Sales Associate,338,2016-07-04
+74,Brian Lewis,Manager,262,2022-01-27
+75,Jason Roy,Manager,136,2020-10-18
+76,Joseph Lyons,Manager,86,2020-12-27
+77,Joshua Wells,Manager,371,2023-01-30
+78,Donald Mueller,Cashier,352,2018-07-17
+79,John Richardson,Manager,176,2023-10-22
+80,Matthew Stein,Cashier,473,2020-06-16
+81,Patrick Lindsey,Sales Associate,233,2018-05-13
+82,Thomas Powers,Sales Associate,306,2017-10-24
+83,James Fowler,Cashier,303,2021-04-21
+84,Stephanie Jennings,Manager,36,2021-05-14
+85,Cynthia Ramos,Cashier,118,2015-07-15
+86,Tyler Pennington,Cashier,194,2019-06-20
+87,Elizabeth Mayer,Cashier,198,2016-02-10
+88,Elizabeth Villarreal,Manager,68,2022-09-29
+89,Jeffrey Stewart,Manager,56,2016-10-31
+90,Maria Mccormick,Cashier,9,2015-09-03
+91,Bobby Chan,Sales Associate,104,2017-06-01
+92,Norman House MD,Cashier,268,2017-11-07
+93,Thomas Garcia,Sales Associate,441,2020-05-05
+94,Dean Jones,Sales Associate,466,2022-01-23
+95,Nicholas Kelley,Manager,259,2016-01-30
+96,Michael Gill,Sales Associate,351,2020-01-17
+97,Catherine Ramos,Cashier,215,2023-05-08
+98,April Gonzalez,Cashier,424,2018-10-02
+99,Kenneth Rodriguez,Manager,77,2017-11-30
+100,Micheal Saunders,Sales Associate,311,2019-01-18
+101,Beverly Wheeler,Cashier,50,2019-01-15
+102,Todd Hayes,Sales Associate,91,2021-04-14
+103,Brandi Thompson,Sales Associate,244,2021-04-02
+104,Erin Campbell,Manager,462,2017-11-21
+105,Jacob Long,Cashier,315,2018-11-10
+106,Ruben Hudson,Cashier,308,2015-03-23
+107,Alexander Hansen,Cashier,20,2019-08-14
+108,Crystal Davis,Sales Associate,450,2016-05-11
+109,Dennis Christian,Manager,402,2018-12-09
+110,Luke Burke,Cashier,273,2022-08-15
+111,Tyler Jackson,Manager,258,2021-10-16
+112,Alexis Fox,Manager,386,2017-03-25
+113,Tanya Wilcox,Manager,61,2021-06-20
+114,Danny Harris DVM,Sales Associate,48,2021-06-16
+115,Deborah Francis,Sales Associate,247,2022-04-15
+116,Jeffrey Clark,Manager,338,2022-04-12
+117,Roger Acosta,Manager,67,2021-01-14
+118,Christopher Sparks,Sales Associate,462,2016-12-15
+119,William Young,Cashier,309,2023-10-02
+120,David Aguilar,Manager,277,2018-03-11
+121,Angelica Harrison,Sales Associate,424,2018-12-25
+122,Valerie Sanders,Manager,1,2018-08-24
+123,James Henderson,Cashier,460,2022-07-20
+124,Angel Hawkins,Cashier,481,2020-09-21
+125,Timothy Ruiz,Manager,397,2020-06-19
+126,Larry Lambert,Cashier,348,2023-09-09
+127,Michelle Pacheco,Manager,333,2023-04-05
+128,Jonathan James,Cashier,221,2020-01-05
+129,Megan Anderson,Sales Associate,268,2015-11-18
+130,Amanda White,Manager,216,2019-04-10
+131,Johnathan Morgan,Manager,190,2021-11-18
+132,Brandon Page,Sales Associate,448,2018-03-19
+133,David Edwards,Cashier,23,2020-03-14
+134,Kathryn Mcpherson,Sales Associate,358,2022-01-31
+135,Isaac Jordan,Cashier,272,2016-08-16
+136,Deborah Gallegos,Cashier,220,2016-11-17
+137,Kelly Graham,Manager,118,2022-03-08
+138,Norman Henry,Sales Associate,481,2018-10-13
+139,Kristi Livingston,Sales Associate,411,2019-09-24
+140,Jessica Lopez,Sales Associate,247,2022-01-29
+141,Clifford Harrison,Sales Associate,405,2021-11-13
+142,John Wilson,Cashier,394,2021-05-30
+143,Kathleen Alexander,Manager,196,2019-07-16
+144,Kristina Ellis MD,Manager,180,2015-10-20
+145,Brittany Bailey,Sales Associate,302,2015-11-21
+146,Duane Conley,Manager,412,2016-10-25
+147,Samantha Elliott,Manager,380,2018-11-08
+148,Christy Bolton,Cashier,465,2017-07-23
+149,Randall White,Cashier,390,2018-07-08
+150,Danielle Jimenez,Manager,429,2018-07-21
+151,Gary Mitchell,Sales Associate,357,2022-04-28
+152,Mrs. Jacqueline Hickman,Sales Associate,295,2018-04-08
+153,Frank Johnson,Cashier,51,2022-12-19
+154,Michael Castillo,Manager,218,2017-12-31
+155,Debra Barrett,Manager,69,2021-10-15
+156,Andrew Dean,Manager,131,2022-03-25
+157,Travis Cooke,Cashier,245,2019-06-08
+158,Rebecca Anderson,Cashier,393,2018-01-16
+159,Rebecca Campbell,Manager,120,2019-12-28
+160,Natasha Payne,Sales Associate,466,2023-10-04
+161,Anna Scott,Sales Associate,440,2019-01-27
+162,Randy Ross,Cashier,43,2023-05-22
+163,Daniel Price,Sales Associate,146,2021-08-01
+164,Matthew Best,Sales Associate,307,2020-11-03
+165,Edwin Owen,Manager,449,2020-01-19
+166,Tammy Mckee,Manager,279,2019-08-23
+167,Heather Davis,Sales Associate,210,2016-11-16
+168,Curtis Griffin,Cashier,132,2017-01-23
+169,Derrick Burke,Manager,97,2015-04-05
+170,Jay Richardson,Sales Associate,3,2016-05-27
+171,Mark Davis,Manager,364,2023-02-28
+172,Valerie Rhodes,Manager,381,2017-08-19
+173,Michelle Arias,Sales Associate,405,2022-06-04
+174,Maria Miller,Sales Associate,4,2017-10-27
+175,Bob Solis,Cashier,296,2023-05-05
+176,William Sutton,Sales Associate,268,2022-11-10
+177,David Patterson,Manager,61,2023-05-29
+178,Kristen Lowery,Cashier,267,2015-11-24
+179,Kayla Gutierrez,Sales Associate,4,2017-05-12
+180,Nathan Hess,Manager,193,2016-11-14
+181,Kevin Mack,Cashier,336,2019-06-15
+182,Patrick Ford,Cashier,106,2016-02-26
+183,Sarah Williams,Cashier,353,2016-01-27
+184,Michael Edwards,Manager,412,2015-09-19
+185,Nicole Cole,Manager,162,2020-04-22
+186,Gloria Hull,Cashier,210,2021-02-24
+187,Christine Miller,Manager,186,2015-08-09
+188,Mrs. Megan Hamilton,Cashier,55,2015-04-18
+189,James Smith,Cashier,80,2023-08-24
+190,Julia Sullivan,Manager,219,2019-06-15
+191,Natasha Swanson,Manager,334,2020-11-16
+192,Robert Jensen,Cashier,300,2023-07-31
+193,Tracey Leonard,Manager,130,2015-12-07
+194,Anita Taylor,Sales Associate,134,2016-03-01
+195,Robert Horton,Cashier,438,2017-12-11
+196,Alexander Castillo,Cashier,275,2021-12-06
+197,David Wilkinson,Manager,217,2016-09-28
+198,Kimberly Miller,Manager,290,2015-12-12
+199,Brittany Henderson,Manager,188,2022-05-06
+200,Steven Rodgers,Sales Associate,314,2019-05-16
+201,John Smith,Manager,142,2018-06-21
+202,David Phillips,Cashier,349,2017-07-28
+203,Jenna Cook,Manager,204,2017-10-10
+204,Ryan Reynolds,Manager,387,2023-04-10
+205,Jon Lane,Cashier,105,2018-03-09
+206,Yvonne Johnson,Cashier,212,2019-12-21
+207,Jose Hardy,Sales Associate,283,2022-01-10
+208,Susan Dillon,Manager,402,2016-06-01
+209,Antonio Smith,Sales Associate,286,2016-06-21
+210,Kristen Adams,Cashier,248,2020-11-27
+211,Stacy Wilson,Cashier,92,2016-11-29
+212,Maria West,Cashier,190,2015-04-28
+213,Christopher Barber,Cashier,287,2015-05-24
+214,Jeffrey Romero,Cashier,285,2022-06-10
+215,Melinda Dorsey,Sales Associate,248,2019-01-01
+216,Michelle Mcdonald,Manager,130,2018-08-25
+217,Miranda Myers,Cashier,158,2020-05-04
+218,Todd Delgado,Manager,296,2020-03-28
+219,John Maddox,Cashier,177,2021-01-23
+220,Daniel Vazquez,Sales Associate,397,2018-01-20
+221,John Thompson,Sales Associate,362,2021-02-24
+222,Johnathan Leon,Sales Associate,204,2019-12-28
+223,Katherine Young,Sales Associate,377,2016-07-07
+224,Yvonne Howard,Manager,71,2022-10-28
+225,Michael Thompson,Sales Associate,438,2021-01-17
+226,Kathy Roman,Sales Associate,443,2016-12-26
+227,Brian Perez,Sales Associate,338,2021-08-17
+228,Katelyn Chaney,Cashier,61,2021-09-13
+229,Patricia Carrillo,Sales Associate,383,2020-02-14
+230,Stephanie Castaneda,Manager,118,2022-01-28
+231,Lindsey Garcia,Cashier,229,2023-05-26
+232,Tracy Lloyd,Manager,401,2022-02-17
+233,Nicole Villegas,Cashier,359,2021-04-29
+234,Lisa Garrison,Manager,487,2019-11-17
+235,Justin Romero,Manager,83,2020-11-14
+236,Bruce Harris,Manager,52,2022-03-05
+237,Nicholas Erickson,Cashier,110,2022-03-04
+238,Kathleen Harrell,Manager,261,2020-12-26
+239,Jack Fuentes,Manager,206,2018-06-22
+240,Dakota Montes,Cashier,403,2018-11-23
+241,Adriana Davenport,Manager,174,2020-05-26
+242,Dustin Jackson,Cashier,411,2021-01-19
+243,Mike Perry,Sales Associate,282,2017-07-19
+244,Danielle Mullins,Manager,315,2016-01-02
+245,Rachel Taylor,Cashier,357,2019-12-15
+246,Thomas Villanueva,Sales Associate,351,2018-06-15
+247,Kelli Fleming,Manager,362,2019-02-07
+248,Jessica Carrillo,Sales Associate,27,2019-08-16
+249,Kelly Jones,Manager,83,2017-11-30
+250,James Barton,Cashier,200,2016-09-29
+251,James Johnson,Sales Associate,494,2018-05-28
+252,Brittany Andrews,Sales Associate,326,2015-02-13
+253,Veronica Lloyd,Sales Associate,3,2015-01-01
+254,Valerie Barnes,Sales Associate,412,2020-11-13
+255,Mercedes Russo,Manager,47,2023-07-03
+256,Emily Cooper,Cashier,422,2016-07-12
+257,Stephanie Bishop,Sales Associate,75,2018-11-09
+258,Jared Schneider,Cashier,242,2018-03-20
+259,Lori Montgomery,Manager,475,2020-04-05
+260,Gregory Cain,Cashier,308,2020-12-31
+261,Patricia Ibarra,Cashier,223,2015-02-04
+262,Joshua Price,Manager,46,2022-09-18
+263,Sheryl Meyer,Sales Associate,33,2020-07-07
+264,Cindy Hunt,Manager,135,2023-06-22
+265,Glen Reid,Sales Associate,114,2020-05-08
+266,Steve Fernandez,Manager,190,2018-05-12
+267,Ronnie Torres,Cashier,41,2015-02-07
+268,Jonathan Dennis,Sales Associate,312,2023-08-04
+269,Debbie Romero,Manager,20,2019-10-30
+270,Peter Pugh,Manager,371,2023-12-13
+271,Kenneth Smith,Manager,197,2018-04-14
+272,David Reese,Sales Associate,477,2021-09-11
+273,Michelle Pineda,Cashier,206,2017-08-05
+274,Sarah Hall,Manager,315,2023-12-08
+275,Michael Briggs,Manager,336,2015-01-30
+276,Brenda Gray,Cashier,267,2021-02-23
+277,Ashley Black,Cashier,147,2019-03-11
+278,Richard Gibson,Cashier,365,2017-02-11
+279,Jeffery Jenkins,Cashier,494,2019-08-14
+280,Jeffery Anderson,Manager,306,2021-04-15
+281,Blake Rhodes,Manager,30,2019-11-26
+282,Justin Maxwell,Sales Associate,485,2019-06-05
+283,Lauren Fields,Manager,397,2017-10-20
+284,Melissa Gould PhD,Manager,420,2016-10-30
+285,Christopher Wagner,Cashier,90,2023-01-07
+286,Mr. Walter Palmer,Sales Associate,328,2023-04-08
+287,Melissa Gibson,Cashier,254,2022-03-30
+288,Christopher Hansen,Manager,225,2019-05-16
+289,Barbara Phelps,Manager,6,2019-03-30
+290,Jacob Roberts,Manager,104,2017-06-22
+291,Autumn Torres,Sales Associate,436,2017-12-13
+292,Edward Johnson,Cashier,337,2015-11-21
+293,Richard Fisher,Sales Associate,477,2019-09-26
+294,Elizabeth Campbell,Manager,412,2022-01-05
+295,Patrick Smith,Manager,266,2017-09-08
+296,Andrea Williams,Cashier,147,2020-10-17
+297,Mr. Jesse Morgan,Cashier,100,2023-07-29
+298,Ruben Bass,Cashier,18,2023-12-21
+299,Charles Fields,Cashier,402,2021-11-16
+300,Mary Hernandez,Manager,307,2022-10-13
+301,Ann Weber,Sales Associate,262,2022-09-05
+302,Jasmine Mccullough,Cashier,265,2018-01-18
+303,Angel Santiago,Cashier,358,2018-03-12
+304,Donald Davis,Cashier,119,2022-04-10
+305,Alexander Mccoy,Manager,315,2023-05-02
+306,Ellen Brewer,Manager,87,2020-12-18
+307,Angela Friedman,Cashier,346,2018-01-06
+308,Nina Bernard,Manager,19,2019-08-19
+309,Nicole Shaw,Sales Associate,185,2017-02-09
+310,Matthew Schmidt,Manager,123,2015-10-08
+311,Denise Harris,Manager,336,2017-01-17
+312,Sara Riley,Cashier,1,2016-07-13
+313,Joseph Flores,Sales Associate,500,2018-04-01
+314,Katherine Peck,Manager,81,2016-03-28
+315,Christopher Johnson,Cashier,45,2022-02-21
+316,Janet Davis,Sales Associate,142,2020-02-09
+317,Kimberly Mitchell,Cashier,400,2021-12-05
+318,Randy Moore,Cashier,205,2020-01-29
+319,Meghan Brown,Manager,181,2018-01-19
+320,Catherine Reeves,Manager,343,2022-11-09
+321,Brett Thomas,Sales Associate,203,2021-12-25
+322,Deanna David,Sales Associate,208,2020-07-08
+323,Amber Allen,Sales Associate,301,2017-02-08
+324,Cynthia Romero,Cashier,103,2018-08-06
+325,Tiffany Adams,Manager,266,2015-03-21
+326,Juan Jones,Manager,8,2016-09-15
+327,Mark Mcintyre,Cashier,378,2015-07-23
+328,Julian Willis,Cashier,361,2020-12-31
+329,Phillip Pearson,Sales Associate,36,2015-04-01
+330,Keith Griffin,Manager,471,2017-01-31
+331,Kathryn Patton,Cashier,47,2016-02-23
+332,Joshua Jackson,Cashier,282,2018-03-01
+333,Troy Ali,Sales Associate,146,2018-01-07
+334,Amanda Hess,Sales Associate,372,2016-05-27
+335,Lisa Delgado,Sales Associate,425,2023-01-08
+336,Antonio Weeks,Sales Associate,287,2019-12-01
+337,David Frazier,Manager,469,2023-02-26
+338,Dr. Christy Pittman MD,Manager,299,2015-02-03
+339,Joseph Jones,Sales Associate,179,2017-08-11
+340,Michael Rivas,Manager,178,2016-01-05
+341,Yvonne Johns,Manager,494,2016-09-09
+342,Jonathan Pham,Cashier,418,2015-03-02
+343,Theresa Reid,Manager,142,2020-07-14
+344,Michelle Nelson,Manager,116,2017-06-08
+345,Erica Clark,Sales Associate,311,2018-11-01
+346,Erin Sloan,Sales Associate,494,2019-09-18
+347,Thomas Lynch,Sales Associate,100,2018-06-30
+348,Adam Thompson,Cashier,233,2023-10-24
+349,Melissa Burns,Cashier,477,2023-12-19
+350,Brad Mcdowell,Sales Associate,207,2020-08-03
+351,Kimberly Stafford,Cashier,295,2019-03-02
+352,Jill Martinez,Cashier,3,2020-03-14
+353,Jamie Burke,Manager,134,2022-10-25
+354,Ryan Cain,Manager,90,2023-11-16
+355,Mrs. Jacqueline Lee,Manager,209,2015-05-10
+356,Patrick Chang,Sales Associate,260,2018-09-14
+357,Michelle Lee,Sales Associate,55,2015-11-25
+358,Lori Stokes,Sales Associate,287,2023-06-02
+359,William Coffey,Cashier,38,2016-08-21
+360,Johnathan Padilla,Manager,258,2015-08-18
+361,Adrienne Joyce,Manager,151,2017-12-27
+362,Ashley Ramirez,Sales Associate,175,2023-09-13
+363,Carolyn Lee,Sales Associate,485,2019-05-27
+364,Megan Morrison,Sales Associate,60,2015-10-20
+365,Kevin Reese,Sales Associate,412,2021-02-02
+366,Timothy Foley,Sales Associate,263,2020-04-09
+367,Monica Hill,Sales Associate,490,2017-01-13
+368,Allison Booker,Sales Associate,132,2017-02-26
+369,Lisa Becker,Manager,449,2017-10-21
+370,April Simmons,Cashier,276,2019-04-12
+371,Marie Nash,Cashier,417,2015-02-21
+372,Ryan Russell,Manager,407,2016-05-14
+373,Joseph Simpson,Manager,295,2023-08-13
+374,Amanda Griffith,Cashier,129,2023-01-06
+375,Thomas Patel,Sales Associate,356,2017-10-16
+376,James Cook,Cashier,227,2019-04-26
+377,Rhonda Mooney,Manager,495,2023-08-25
+378,Michael Rosario,Cashier,194,2019-12-20
+379,Christina Murphy,Sales Associate,289,2017-10-09
+380,Mario Johnson,Manager,248,2023-04-10
+381,Alexander Robles,Manager,395,2015-05-18
+382,Sara Wright,Cashier,125,2017-03-26
+383,Tyler Wall,Manager,388,2020-03-02
+384,Kelly Young,Cashier,174,2023-03-31
+385,Kyle Gonzales,Cashier,493,2023-08-24
+386,Jeremy Martinez,Manager,398,2016-01-20
+387,Sydney Bennett,Manager,235,2020-11-04
+388,Melissa Patton,Cashier,349,2022-06-20
+389,Robert Brown,Manager,236,2017-05-03
+390,Jessica Garcia,Manager,460,2020-04-20
+391,Anthony Horn,Sales Associate,301,2019-05-13
+392,Luis Jenkins,Manager,442,2022-08-23
+393,Rachel Hanson,Cashier,15,2018-07-02
+394,John Patterson,Cashier,247,2018-08-16
+395,Ashley Curtis,Manager,60,2016-10-11
+396,Allison Holmes,Sales Associate,133,2022-01-21
+397,Ashley Smith,Manager,35,2023-03-02
+398,Leslie Randall,Manager,196,2015-06-22
+399,Beth Hicks,Sales Associate,325,2023-05-09
+400,John Oliver,Manager,404,2021-03-01
+401,Chad Williams,Cashier,113,2020-11-03
+402,Kevin Palmer,Sales Associate,347,2016-05-15
+403,Heather Silva,Sales Associate,360,2017-11-03
+404,Brianna Harrison,Cashier,118,2020-05-25
+405,Donna Cordova,Manager,410,2022-02-28
+406,Mary Thomas,Manager,162,2018-05-08
+407,Robert Hansen,Sales Associate,212,2017-03-24
+408,Gregg Bray,Cashier,490,2019-01-16
+409,Christina Jones,Sales Associate,181,2015-08-02
+410,John Holt,Manager,265,2022-06-23
+411,Michael Christian,Manager,275,2017-06-11
+412,Gabriela Evans,Cashier,5,2016-04-07
+413,Brian Walter,Sales Associate,359,2017-08-24
+414,Kathleen Mora,Sales Associate,427,2022-02-05
+415,Melissa Owens,Manager,135,2019-11-14
+416,John Tate,Cashier,128,2018-08-22
+417,Renee Bennett,Manager,148,2015-03-03
+418,Ronald Smith,Cashier,48,2016-11-16
+419,Hunter Spencer,Manager,205,2023-11-28
+420,Jeremiah Welch,Manager,345,2018-02-04
+421,Heather Hester,Cashier,384,2021-07-22
+422,Duane Robinson,Manager,421,2016-05-05
+423,Christopher Abbott,Cashier,176,2019-06-10
+424,Craig Thompson,Sales Associate,39,2023-11-07
+425,Brian Decker,Cashier,284,2017-09-22
+426,Matthew Dyer,Cashier,477,2015-02-06
+427,Daniel Bryant,Manager,92,2015-06-22
+428,Jaime Jackson,Manager,244,2021-07-08
+429,Rebecca Hanson,Manager,161,2023-10-15
+430,Michael Wilson,Cashier,182,2022-09-30
+431,Bianca Lopez,Manager,112,2020-04-30
+432,Melissa Stewart,Manager,458,2022-09-20
+433,Mark Mccall,Sales Associate,294,2021-09-08
+434,Laurie Dickerson,Sales Associate,138,2016-09-26
+435,Charles Wright,Cashier,94,2019-03-02
+436,Diana Martinez,Cashier,485,2023-08-24
+437,Lauren Burns,Sales Associate,383,2016-01-02
+438,Rachel Gibbs,Cashier,350,2017-10-15
+439,Carol Hughes,Cashier,477,2016-10-07
+440,Nicole Brooks,Sales Associate,466,2020-08-09
+441,Cassidy Marquez,Sales Associate,98,2016-01-10
+442,Karen Sosa,Cashier,256,2022-09-10
+443,Kevin Little,Cashier,378,2021-12-08
+444,Marie Clark,Manager,103,2018-10-18
+445,Jodi Young,Cashier,121,2023-07-09
+446,Jeffery Bennett,Manager,377,2022-01-04
+447,Ryan Scott,Sales Associate,124,2015-09-03
+448,Paul Phillips,Sales Associate,447,2015-09-02
+449,Crystal Williams,Sales Associate,136,2018-12-27
+450,Gabrielle Hayes,Sales Associate,106,2022-03-25
+451,Jacob Jimenez,Cashier,118,2016-09-22
+452,Alexander Alexander,Cashier,104,2022-11-12
+453,Bill Valenzuela,Manager,428,2021-01-05
+454,Jonathan Payne,Sales Associate,128,2023-11-16
+455,Donald Perez,Cashier,429,2016-03-15
+456,Isaac Payne,Manager,317,2016-05-30
+457,Michael Wright,Manager,183,2020-06-21
+458,Patricia Bruce,Manager,80,2017-08-11
+459,Larry Taylor,Sales Associate,399,2018-07-21
+460,Michelle Daniels,Manager,55,2021-04-06
+461,Randy Campbell,Sales Associate,62,2023-11-04
+462,Zachary Bautista,Manager,472,2022-03-25
+463,Norma Smith,Manager,41,2023-06-27
+464,Virginia Lynn,Manager,347,2018-11-23
+465,Crystal Cummings,Cashier,490,2019-12-02
+466,David Matthews,Sales Associate,340,2023-03-23
+467,Julie Olsen,Manager,253,2017-03-01
+468,Brady Singleton,Sales Associate,315,2015-03-29
+469,Tom Butler,Sales Associate,4,2022-09-24
+470,Samuel Johnson,Manager,392,2019-03-28
+471,Shane Torres,Manager,439,2019-01-07
+472,Kathryn Hopkins,Cashier,278,2023-02-15
+473,Darin Simmons,Manager,491,2016-07-05
+474,Pamela Vaughn,Sales Associate,22,2017-10-23
+475,Kevin Bradley,Sales Associate,435,2015-06-11
+476,Charles Rowland,Cashier,247,2020-06-10
+477,Laura Lloyd DVM,Manager,191,2022-12-04
+478,Jeanne James,Sales Associate,318,2019-11-28
+479,Amy Hughes,Sales Associate,162,2021-04-08
+480,Gary Hayden,Sales Associate,253,2018-04-22
+481,Elizabeth Jackson,Sales Associate,460,2021-02-01
+482,Cassandra Serrano,Sales Associate,452,2022-10-26
+483,Alyssa Gonzalez,Manager,460,2020-06-30
+484,Jasmin Harris,Cashier,295,2017-02-16
+485,Joseph Gibson,Manager,445,2021-05-10
+486,Adam Murphy,Cashier,141,2017-02-03
+487,Jeanne Mayo,Sales Associate,252,2021-02-04
+488,Jason Paul,Cashier,94,2018-11-25
+489,Steven Clark,Cashier,392,2018-08-18
+490,Emily Meyers,Cashier,469,2023-03-19
+491,Caitlin Andrews,Manager,262,2020-04-02
+492,Dale Moran,Manager,144,2018-02-01
+493,Dakota Ritter,Sales Associate,204,2021-09-18
+494,Roger Jacobs,Cashier,114,2021-03-21
+495,Gary Carroll,Cashier,385,2016-10-18
+496,Joel Williams Jr.,Cashier,296,2015-10-10
+497,Tamara Reed,Cashier,66,2020-12-15
+498,Rebecca Myers,Sales Associate,28,2016-09-26
+499,Sarah Perry,Manager,270,2020-01-15
+500,Luke Reynolds,Manager,410,2018-04-26
